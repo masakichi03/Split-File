@@ -5,6 +5,9 @@
 本ツールはバイナリファイルを指定サイズに分割するツールです
 
 
+■実行ツール(exe) 格納場所
+
+Split-File/SplitFile/bin/Release/SplitFile.exe
 
 ■使用手順
 
